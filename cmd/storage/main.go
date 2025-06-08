@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/dzibukalexander/storages/internal/storage"
+	"github.com/dzibukalexander/storages/v2/internal/storage"
 	"github.com/google/uuid"
 )
 
