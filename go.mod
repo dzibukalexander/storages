@@ -1,4 +1,4 @@
-module github.com/dzibukalexander/storages/v2
+module github.com/dzibukalexander/storages/v3
 
 go 1.18
 

@@ -3,7 +3,7 @@ package storage
 import (
 	"fmt"
 
-	"github.com/dzibukalexander/storages/v2/internal/file"
+	"github.com/dzibukalexander/storages/v3/internal/file"
 	"github.com/google/uuid"
 )
 
