@@ -1,4 +1,4 @@
-package storages
+package storagesssssss
 
 import "github.com/dzibukalexander/storages/internal/storage"
 
